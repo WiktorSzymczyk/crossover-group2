@@ -187,3 +187,12 @@ img {
     height: 30vh;
   }
 }
+
+.emptyImg {
+  width: 500px;
+}
+
+.emptyContainer {
+  text-align: center;
+  margin-bottom: 80px;
+}
