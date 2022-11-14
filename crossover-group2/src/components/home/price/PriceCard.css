@@ -1,0 +1,16 @@
+div#Boxy {
+  background-color: #fff;
+  border: solid 2px grey;
+  transition: background-color 2s ease-out 20ms;
+}
+div#Boxy:hover {
+  background-color: #f9e9b6;
+}
+
+.price .btn3 {
+  background-color: Black;
+}
+
+.price .btn5 {
+  background-color: Black;
+}
